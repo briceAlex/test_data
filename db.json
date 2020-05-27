@@ -1,4 +1,4 @@
-{[
+{ "salle" :[
 {"id":"1","nom":"amphitéatre ","capacité":"200","equipement":"4 prises éthernet de catégorie 5, système de vidéo projection sur grand écran, 1 prise éthernet régie\r\n","services":""},
 {"id":"2","nom":"baccarat ","capacité":"40","equipement":"une prise ethernet (catégorie 5 ou 6), système de vidéo projection\r\n","services":""},
 {"id":"3","nom":"corbin","capacité":"50","equipement":"une prise ethernet (catégorie 5 ou 6), système de vidéo projection\r\n","services":""},
