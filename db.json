@@ -1,0 +1,23 @@
+{
+        "objects":[
+          {
+            "id" : 1,
+            "nom": "Salle A",
+            "capacite" :"20",
+            "equipement":"ordinateurs chaise et table",
+            "services" : "cours et services en tout genre"},
+          {
+            "id" : 2,
+            "nom": "Salle B",
+            "capacite" :"20",
+            "equipement":"chaises,tables et TABLEAUX",
+            "services" : "nourritures"},
+          {
+            "id" : 3,
+            "nom": "Salle C",
+            "capacite" :"20",
+            "equipement":"ordinateurs chaise et table",
+            "services" : "cours et services en tout genre"}
+           ]
+}
+       
