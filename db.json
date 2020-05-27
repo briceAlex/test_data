@@ -4,4 +4,5 @@
 {"id":"3","nom":"corbin","capacité":"50","equipement":"une prise ethernet (catégorie 5 ou 6), système de vidéo projection\r\n","services":""},
 {"id":"4","nom":"daum","capacité":"30","equipement":"une prise ethernet (catégorie 5 ou 6), système de vidéo projection\r\n","services":""},
 {"id":"5","nom":"gallé","capacité":"12","equipement":"une prise ethernet (catégorie 5 ou 6), système de vidéo projection\r\n","services":""},
-]}
+],
+}
