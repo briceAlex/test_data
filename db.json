@@ -1,23 +1,21 @@
-{
-        "objects":[
-          {
-            "id" : "1",
-            "nom": "Salle A",
-            "capacite" :"20",
-            "equipement":"ordinateurs chaise et table",
-            "services" : "cours et services en tout genre"},
-          {
-            "id" : "2",
-            "nom": "Salle B",
-            "capacite" :"20",
-            "equipement":"chaises,tables et TABLEAUX",
-            "services" : "nourritures"},
-          {
-            "id" : "3",
-            "nom": "Salle C",
-            "capacite" :"20",
-            "equipement":"ordinateurs chaise et table",
-            "services" : "cours et services en tout genre"}
-           ]
-}
-       
+[
+{"id":"1","nom":"amphitéatre ","capacité":"200","equipement":"4 prises éthernet de catégorie 5, système de vidéo projection sur grand écran, 1 prise éthernet régie\r\n","services":""},
+{"id":"2","nom":"baccarat ","capacité":"40","equipement":"une prise ethernet (catégorie 5 ou 6), système de vidéo projection\r\n","services":""},
+{"id":"3","nom":"corbin","capacité":"50","equipement":"une prise ethernet (catégorie 5 ou 6), système de vidéo projection\r\n","services":""},
+{"id":"4","nom":"daum","capacité":"30","equipement":"une prise ethernet (catégorie 5 ou 6), système de vidéo projection\r\n","services":""},
+{"id":"5","nom":"gallé","capacité":"12","equipement":"une prise ethernet (catégorie 5 ou 6), système de vidéo projection\r\n","services":""},
+{"id":"6","nom":"grüber","capacité":"24","equipement":"une prise ethernet (catégorie 5 ou 6), système de vidéo projection\r\n","services":""},
+{"id":"7","nom":"lamour","capacité":"50","equipement":"une prise ethernet (catégorie 5 ou 6), système de vidéo projection\r\n","services":""},
+{"id":"8","nom":"longwy","capacité":"40","equipement":"une prise ethernet (catégorie 5 ou 6), système de vidéo projection\r\n","services":""},
+{"id":"9","nom":"marjorelle","capacité":"50","equipement":"une prise ethernet (catégorie 5 ou 6), système de vidéo projection\r\n","services":""},
+{"id":"10","nom":"multimédia","capacité":"24","equipement":"24 ordinateurs, 26 prises ethernet, 1 PC formateur, 1 imprimante réseau\r\n","services":""},
+{"id":"11","nom":"restauration et convivialité","capacité":"0","equipement":"digicode\r\n","services":"aménagement, fourniture eau café ,etc..\r\n"},
+{"id":"12","nom":"Salle de services","capacité":"0","equipement":"","services":""},
+{"id":"13","nom":"Aucune information","capacité":"0","equipement":"","services":""},
+{"id":"14","nom":"Administration M2L","capacité":"0","equipement":"","services":""},
+{"id":"15","nom":"Administration M2L","capacité":"0","equipement":"","services":""},
+{"id":"16","nom":"Administration M2L","capacité":"0","equipement":"","services":""},
+{"id":"17","nom":"cuisine","capacité":"0","equipement":"test","services":"test"},
+{"id":"18","nom":"reprographie","capacité":"0","equipement":"","services":""},
+{"id":"25","nom":"Nouvelle","capacité":"15","equipement":"vidéo projecteur","services":"nettoyage"}
+]
